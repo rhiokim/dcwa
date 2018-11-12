@@ -4,9 +4,11 @@ Docker Containerizing for Web Application
 
 ## References
 
-- vorpal: https://github.com/dthree/vorpal
-- commander.js: https://github.com/tj/commander.js
 - inquirer.js:  https://github.com/sboudrias/Inquirer.js
+
+## TODO
+
+* [ ] Create Image with "dcwa.from" baseImage configuration in the package.json file
 
 ## License
 

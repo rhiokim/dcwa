@@ -74,5 +74,8 @@
       "pre-commit": "npm run format && npm run lint && flow",
       "pre-push": "npm test"
     }
+  },
+  "dcwa": {
+    "from": "node:10.13.0-alpine"
   }
 }
