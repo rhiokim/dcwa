@@ -66,6 +66,7 @@
     "inquirer": "^6.2.0",
     "is-blank": "^2.1.0",
     "meow": "^5.0.0",
+    "node-dockerfile": "^0.7.1",
     "ora": "^3.0.0"
   },
   "husky": {
